@@ -8,7 +8,7 @@ void evenOdd(int n) {
         cout << "The number " << n << " is an Odd number";
     }
     else {
-        cout << "The number " << n << " is a Even number";
+        cout << "The number " << n << " is an Even number";
     }
 }
 
@@ -19,4 +19,5 @@ int main() {
 
 
     return 0;
+
 }
